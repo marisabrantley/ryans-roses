@@ -12,7 +12,7 @@ Use querySelector(), styling properties, modify attributes, as well as change te
 
 ## Launch
 
-View the Ryan's Roses exercies here: www.marisabrantley.github.io/ryans-roses/
+View the Ryan's Roses exercise here: www.marisabrantley.github.io/ryans-roses/
 
 ## Class
 *Skillcrush, Break into Tech Blueprint*
